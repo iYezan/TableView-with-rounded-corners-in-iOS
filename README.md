@@ -1,4 +1,4 @@
-# TableView-with-rounded-corners-in-iOS
+# TableView with rounded corners
 
 Demo
 
@@ -7,4 +7,4 @@ Demo
 
 Clone the repository
 
-```$ git clone https://github.com/iYezan/News-App.git```
+```$ git clone https://github.com/iYezan/TableView-with-rounded-corners-in-iOS.git```
